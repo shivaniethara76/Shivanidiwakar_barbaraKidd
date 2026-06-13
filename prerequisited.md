@@ -1,8 +1,3 @@
-# Prerequisites Required for Barbara Kidd Multi-Turn Task
-
-To run the 50-turn prompts sequence successfully under the SFT evaluation harness (OpenClaw), you must seed the environment with the following workspace files and mock API records before Turn T1 launches.
-
----
 
 ## 1. Workspace / Filesystem Artifacts (mounted in the agent's workspace `/workspace/` or `data/`)
 

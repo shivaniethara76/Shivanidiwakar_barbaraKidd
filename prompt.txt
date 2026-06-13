@@ -1,13 +1,3 @@
-# ---------------------------------------------------------------------------
-# Persona      : Barbara Kidd (Anglo-American pharmacy technician, Columbus OH)
-# Variant      : enterprise_with_personal_overlay
-# Window       : Wed Nov 18, 2026 05:30 EST -> Sat Nov 21, 2026 21:30 EST
-# Timezone     : America/New_York
-# Source       : Bit-identical to task.py TURNS[i]["wake_up_message"]
-# Note         : Each "TURN ... " header is comment; the lines BELOW are
-#                what the orchestrator delivers to the agent at that turn.
-# ---------------------------------------------------------------------------
-
 TURN T1 (Day 1, 05:30)
 Let's see if the weather is clear enough for my morning run loop. Check today's forecast and give me the outlook. I also need to see my calendar from now through 8 PM. Scan my email for anything from Katherine at the pharmacy or Dr. Warner about the screening. I want to look this over before I start my morning devotions.
 
